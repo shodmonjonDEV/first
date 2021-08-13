@@ -1,0 +1,41 @@
+.block{
+	border:5px solid red;
+	background-color:#991AC0 
+}
+h2{
+	text-align: center;
+	color:#78C0C0;
+}
+.top{
+	border:5px inset: #D191FF;
+	background-color: #A0FFEC;
+	color:#A67DFF;
+	font-size:25px;
+}
+p{
+	text-align: center;
+	color:#FF558B;
+	font-size:30px;
+}
+ol li{
+	text-align:middle;
+	color:#FFC628;
+	font-size: 25px;
+}
+.middle{
+	border:5px solid red;
+	background-color:#7328FF; 
+	font-size:25px;
+	color: #FF50EB;
+}
+h4{
+	text-align: center;
+	color:#78C0C0;
+	font-size:30px;
+}
+.bottom{
+	border:5px solid red;
+	color:red;
+	font-size:25px;
+	background-color: #73287D;
+}
